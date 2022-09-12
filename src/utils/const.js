@@ -1,0 +1,5 @@
+export const  START_ROUTE = '/'
+export const  REGISTRATION_ROUTE = '/registration'
+export const  AUTHORIZATION_ROUTE = '/authorization'
+export const  QUIZ_ROUTE = '/quiz'
+export const  ADD_QUESTION_ROUTE = '/add-question'
